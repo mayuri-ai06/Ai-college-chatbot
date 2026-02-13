@@ -21,6 +21,22 @@ This chatbot can:
 * Custom Tool Function Calling
 
 ---
+## 🔄 Flowchart / Working
+
+![AI College Chatbot Flowchart](assets/architecture.png)
+
+This flowchart explains how the AI College Chatbot processes a user query.
+
+1. The user enters a message in the Streamlit chat interface.
+2. The message is passed to the LangChain agent.
+3. The agent sends the query to the Groq LLM for understanding.
+4. The LLM analyzes the query and decides the next action:
+
+   * For college-related questions → retrieves data from the college database (JSON file)
+   * For general or real-time questions → performs a web search using the Serper API
+5. The selected tool returns information to the LLM.
+6. The LLM generates a human-like response.
+7. The response is displayed back to the user and conversation history is maintained.
 
 ## ⚙️ Features
 
