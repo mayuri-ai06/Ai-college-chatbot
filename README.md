@@ -57,7 +57,7 @@ This flowchart explains how the AI College Chatbot processes a user query.
 ## 🚀 How to Run
 
 1. Clone the repo
-   git clone https://github.com/your-username/ai-college-chatbot.git
+   git clone https://github.com/mayuri-ai06/Ai-college-chatbot/tree/main
 
 2. Install requirements
    pip install -r requirements.txt
