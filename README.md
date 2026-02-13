@@ -23,7 +23,7 @@ This chatbot can:
 ---
 ## 🔄 Flowchart / Working
 
-![AI College Chatbot Flowchart](assets/architecture.png)
+![AI College Chatbot Flowchart](https://github.com/mayuri-ai06/Ai-college-chatbot/blob/main/assets/flowchart.png?raw=true)
 
 This flowchart explains how the AI College Chatbot processes a user query.
 
