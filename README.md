@@ -34,7 +34,7 @@ This chatbot can:
 ## 🖥️ Demo
 
 ![Chatbot Demo](https://github.com/mayuri-ai06/Ai-college-chatbot/blob/main/assets/toolagent_output.png?raw=true)
-![Chatbot Demo](assets/chatbot-demo.png)
+![Chatbot Demo](https://github.com/mayuri-ai06/Ai-college-chatbot/blob/main/assets/output%202.png?raw=true)
 
 ---
 
